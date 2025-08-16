@@ -35,5 +35,6 @@
   <a href="https://www.instagram.com/mathu.cardoso" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![Snake animation](https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<div align=center>
+  <img src="https://raw.githubusercontent.com/MathuCardoso/MathuCardoso/output/snake.svg" alt="Snake animation" />
+</div>
