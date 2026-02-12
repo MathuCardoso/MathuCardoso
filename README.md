@@ -1,7 +1,7 @@
 ## Matheus Cardoso 
 ### Formação: 
 - **Técnico em Desenvolvimento de Sistemas** (IFPR);
-- Cursando 2º Período de **Análise e Desenvolvimento de Sistemas** (IFPR)
+- Cursando 3º Período de **Análise e Desenvolvimento de Sistemas** (IFPR)
 ##
 ### Tecnologias que possuo conhecimento: 
 <div style="display: inline_block"><br> 
