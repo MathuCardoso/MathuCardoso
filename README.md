@@ -10,18 +10,13 @@
   <img align="center" alt="Mathu-HTML" height="auto" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"> 
   <img align="center" alt="Mathu-CSS" height="auto" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
   <img align="center" alt="Mathu-JS" height="auto" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
+  <img align="center" alt="Mathu-JS" height="auto" width="50" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Mathu-Bootstrap" height="auto" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> 
+  <img align="center" alt="Mathu-TAILWIND" height="auto" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   <img align="center" alt="Mathu-GIT" height="auto" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> 
   <img align="center" alt="Mathu-MYSQL" height="auto" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Mathu-TailwindCSS" height="auto" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /> 
-  <img align="center" alt="Mathu-Bootstrap" height="auto" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> 
-</div> 
-
-## 
-
-### Atualmente estudando: 
-
-<div style="display: inline_block"><br> 
-  <img align="center" alt="Mathu-JAVA" height="auto" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> 
+<img align="center" alt="Mathu-PGSQL" height="auto" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
 </div> 
 
 ## 
