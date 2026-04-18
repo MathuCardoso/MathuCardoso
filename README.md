@@ -6,7 +6,8 @@
 ### Tecnologias que possuo conhecimento: 
 <div style="display: inline_block"><br> 
   <img align="center" alt="Mathu-PHP" height="auto" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> 
-  <img align="center" alt="Mathu-Laravel" height="auto" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/> 
+  <img align="center" alt="Mathu-Laravel" height="auto" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
+  <img align="center" alt="Mathu-Laravel" height="auto" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg"/>
   <img align="center" alt="Mathu-HTML" height="auto" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"> 
   <img align="center" alt="Mathu-CSS" height="auto" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
   <img align="center" alt="Mathu-JS" height="auto" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
